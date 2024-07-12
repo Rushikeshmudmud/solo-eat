@@ -1,0 +1,67 @@
+
+
+.cardImg{
+  
+    height: 250px;
+  }
+ 
+  .bi-star-fill{
+    color: rgb(6, 162, 6);
+  }
+  .dropdown-toggle{
+    margin-top: 40px;
+  }
+  .border-danger-subtle{
+    outline: none;
+  }
+
+  .location-list-group:hover{
+       background-color:rgb(14, 181, 176) ;
+  }
+  #header{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 20px;
+    
+    
+  
+  }
+  .dish-img{
+    width: 250px;
+    height: 250px;
+  }
+  #veg-display{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(13, 123, 13);
+    border-radius:5px ;
+  }
+  #non-Veg{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius:5px ;
+  }
+ 
+  .restaurantSpec-food-card{
+    height: 150px;
+    
+  }
+  .restaurant-food-card{
+    height: 150px;
+    width: 250px;
+  }
+  
+  .placeholder-restaurant-Card{
+    height: 250px;
+  }
+  .shimmer-Card{
+    border: none;
+    
+  }
+  .card-wrapper{
+    padding-top: 100px;
+  }
+ 
